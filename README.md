@@ -2,7 +2,7 @@
 
 - 📧 Email: jerinaj8281@gmail.com
 - 📱 Phone: 8281943361
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-jerinaj8281-blue)]([https://www.linkedin.com/in/jerinaj8281/](https://www.linkedin.com/in/jerin-aj-5b4486267/))
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jerin-aj-5b4486267/)
 - 
 ## 🎓 Education
 
