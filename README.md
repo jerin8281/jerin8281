@@ -3,7 +3,6 @@
 - 📧 Email: jerinaj8281@gmail.com
 - 📱 Phone: 8281943361
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jerin-aj-5b4486267/)
-- 
 ## 🎓 Education
 
 - **Master of Computer Application**
@@ -48,7 +47,6 @@
 ## 📚 Certificates
 
 - Programming in CPP - NPTEL
-- 
 
 ## 🎯 Career Objective
 
